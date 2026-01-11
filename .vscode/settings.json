@@ -12,6 +12,11 @@
 		".old": true,
 		"LICENSE": true,
 		"_config.yml": true,
-		"_includes": true
+		"_includes": true,
+		"**/**/*.aux": true,
+		"**/**/*.fdb_latexmk": true,
+		"**/**/*.fls": true,
+		"**/**/*.log": true,
+		"**/**/*.synctex.gz": true
 	}
 }
