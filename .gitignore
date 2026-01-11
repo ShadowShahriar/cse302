@@ -3,3 +3,8 @@
 *.txt
 desktop.ini
 **/.submit
+**/**/*.aux
+**/**/*.fdb_latexmk
+**/**/*.fls
+**/**/*.log
+**/**/*.synctex.gz
