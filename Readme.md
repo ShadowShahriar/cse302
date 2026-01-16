@@ -15,7 +15,9 @@ Course offered by,
 ## Lab Notes
 
 -   [**Lab 01**](#lab-notes): 08 January 2026
+-   [**Lab 02**](lab/02-2026-01-15/template.pdf): 15 January 2026
 
 ## Lab Reports
 
--   [**Lab 01**](https://shadowshahriar.github.io/cse302/lab/01-2026-01-08/cover-letter.pdf): 08 January 2026
+-   [**Lab 01: Cover Letter**](https://shadowshahriar.github.io/cse302/lab/01-2026-01-08/cover-letter.pdf): 08 January 2026
+-   [**Lab 02: Cirruculum Vitae**](https://shadowshahriar.github.io/cse302/lab/02-2026-01-15/curriculum-vitae.pdf): 15 January 2026
