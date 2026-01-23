@@ -12,12 +12,14 @@ Course offered by,
 
 [**Sworna Akter**](https://www.bubt.edu.bd/department/27/faculty/profile/855)<br>Assistant Professor<br>Department of Computer Science and Engineering<br>**sworna@bubt.edu.bd**<br>+880 131 9332 516<br>B1/303
 
-## Lab Notes
+## Lab Instructions
 
 - [**Lab 01**](https://shadowshahriar.github.io/cse302/notes/lab-01.pdf): 08 January 2026
 - [**Lab 02**](https://shadowshahriar.github.io/cse302/lab/02-2026-01-15/template.pdf): 15 January 2026
+- [**Lab 03**](https://shadowshahriar.github.io/cse302/lab/03-2026-01-22/instructions.pdf): 22 January 2026
 
 ## Lab Reports
 
 - [**Lab 01: Cover Letter**](https://shadowshahriar.github.io/cse302/lab/01-2026-01-08/cover-letter.pdf): 08 January 2026
 - [**Lab 02: Cirruculum Vitae**](https://shadowshahriar.github.io/cse302/lab/02-2026-01-15/curriculum-vitae.pdf): 15 January 2026
+- [**Lab 03: Resume**](https://shadowshahriar.github.io/cse302/lab/03-2026-01-22/resume.pdf): 22 January 2026
